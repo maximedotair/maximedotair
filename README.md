@@ -4,13 +4,13 @@
 
 ### 🛠️ Technical Skills:
 
-`React` `Next.js` `JavaScript` `Node.js` `Python` `CSS` `API`
+`React` `Next.js` `JavaScript` `Typescript` `Node.js` `Express.js` `Python` `CSS` `API` `PHP` `...`
 
 ---
 
 ### 💼 Experience Fields:
 
-`DeFi` `Ethereum` `Blockchain` `Web3` `Fintech` `Charts`
+`DeFi` `Ethereum` `Blockchain` `Web3` `Fintech` `Charts` `WAGMI` `Ethers.js`
 
 ---
 
