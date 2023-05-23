@@ -1,16 +1,29 @@
-### Hi there 👋
+## 👋 Welcome to my GitHub Profile
 
-<!--
-**maximedotair/maximedotair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`React` `Next.js` `JavaScript` `Node.js` `Python` `CSS` `API`
+
+---
+
+### 💼 Experience Fields:
+
+`DeFi` `Ethereum` `Blockchain` `Web3` `Fintech` `Charts`
+
+---
+
+### 🧠 AI Interests:
+
+`OpenAI` `Langchain` `GPT` 
+
+---
+
+### 🎨 Art & Innovation:
+
+`Midjourney` `Generative Art`
+
+---
+
+🔍 Continually seeking to explore new technologies, solve complex problems, and create engaging user experiences. For more insights into my work, please explore my repositories below.
