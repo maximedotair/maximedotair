@@ -4,7 +4,7 @@
 
 ### 🛠️ Technical Skills:
 
-`React` `Next.js` `JavaScript` `Typescript` `Node.js` `Express.js` `Python` `CSS` `API` `PHP` `...`
+`React` `Next.js` `JavaScript` `Typescript` `Node.js` `Express.js` `Python` `CSS` `API` `Vue` `Nuxt` `LLM` `Fintech` `...`
 
 ---
 
